@@ -2747,7 +2747,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #ffbf00;
+					color: #b7eadc;
 				}
 
 		#header > nav {
@@ -2783,7 +2783,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #ffbf00 !important;
 						}
 
 					#header > nav ul li:first-child {
